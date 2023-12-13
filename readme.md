@@ -14,7 +14,7 @@
 
 ### Layout Desktop | Mobile
 <img src="gifs/android-layout-desktop.gif" alt="Gif do layout desktop" width=950px>
-<img src="gifs/android-layout-mobile.gif" width=262px>
+<img src="gifs/android-layout-mobile.gif" alt="Gif do layout mobile" width=262px>
 
 ## Status
 
